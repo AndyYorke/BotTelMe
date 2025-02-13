@@ -1,0 +1,2 @@
+# BotTelMe
+for roullete game
